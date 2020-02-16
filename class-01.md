@@ -29,9 +29,9 @@
 ```
 ### the HTML have alot of tages and if you want anythings can find it in internet 
 ####  but we have an important tages like 
-1. <header>
-2. <main>
-3. <foter>
+1. `<header>`
+2. `<main>`
+3. `<foter>`
 
 # java script samary
 
