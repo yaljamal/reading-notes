@@ -5,7 +5,7 @@
 
 |topic  | links   |
 |------ | --------|
-|**Read 1** | [Class 01 ](https://yaljamal.github.io/reading-notes/calss-01)|
+|**Read 1** | [Class 01 ](https://yaljamal.github.io/reading-notes/class-01)|
 |**Read 2** | [Read 02]() |
 |**Read 3** | [Read 03]() |
 |**Read 4** | [Read 04]() |
