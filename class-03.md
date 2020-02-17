@@ -2,20 +2,20 @@
 ### the have three type to code list :
 1. ordered list => 
     #### it is show as number     
-  > is have a tow important tag  
-   - `<ol>` 
-   - `<li>`
+     > is have a tow important tag  
+      - `<ol>` 
+      - `<li>`
 2. unordered list =>
     #### it is show as bullets     
 
- > is have a tow important tag 
- - `<ul>`
- - `<li>`
+   > is have a tow important tag 
+     - `<ul>`
+     - `<li>`
 3. defination list =>
- > is have a three important tag  
- - `<dl>`
- - `<dt>`
- - `<dd>`
+   > is have a three important tag  
+    - `<dl>`
+    - `<dt>`
+    - `<dd>`
 
  #### we can use nested list that is meaning 
   we can make un orderd list in ordered list ... ats
