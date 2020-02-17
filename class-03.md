@@ -1,12 +1,12 @@
 # HTML part
 ### the have three type to code list :
 1. ordered list => 
-    #### it is show as number     
+  #### it is show as number     
      > is have a tow important tag  
       - `<ol>` 
       - `<li>`
 2. unordered list =>
-    #### it is show as bullets     
+  #### it is show as bullets     
 
    > is have a tow important tag 
      - `<ul>`
