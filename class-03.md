@@ -1,4 +1,4 @@
-# the list in HTML
+# HTML part
 ### the have three type to code list :
 1. ordered list => 
     #### it is show as number     
@@ -20,7 +20,8 @@
  #### we can use nested list that is meaning 
   we can make un orderd list in ordered list ... ats
 
-# boxes daimention 
+# CSS part
+### boxes daimention 
 - we can using **width** and **height** in css to make the width and height for the any contaner it is like `<div>`
 - we have **max-width** and **min-width** to define what is the maximam and minimum of the contaner
 - the same thing we have **max-hieght** and **min-hieght** to define what is the maximam and minimum of the contaner
@@ -37,6 +38,25 @@
    - display:block
    - display:inline-block
    
+# javascript part 
+  ## If statment 
+  #### we can using the if statment if we need to compare some thing or need to expretion the condetion to make some thing 
+  > the snatacs is ***if ( condetion ){}***
+  ## OR 
+  > ***if ( condetion ){} else {} ***
+  ## OR 
+  > ***if ( condetion ){} else if (condetion){} ***
+
+  ## Switch statment
+  #### the sentence is 
+  > switch (level) {
+    case 'One':
+       title= 'Level 1 ' ;
+       break;
+    default :
+       title= 'Test';
+       break;
+       }
 
 
 
