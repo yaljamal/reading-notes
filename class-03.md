@@ -39,16 +39,16 @@
    - display:inline-block
    
 # javascript part 
-  ## If statment 
-  #### we can using the if statment if we need to compare some thing or need to expretion the condetion to make some thing 
+## If statment 
+#### we can using the if statment if we need to compare some thing or need to expretion the condetion to make some thing 
   > the snatacs is ***if ( condetion ){}***
-  ## OR 
+## OR 
   > ***if ( condetion ){} else {} ***
-  ## OR 
+## OR 
   > ***if ( condetion ){} else if (condetion){} ***
 
-  ## Switch statment
-  #### the sentence is 
+## Switch statment
+#### the sentence is 
   > switch (level) {
     case 'One':
        title= 'Level 1 ' ;
@@ -57,7 +57,25 @@
        title= 'Test';
        break;
        }
+#### the data type in javascript
+  - string => text
+  - number => number
+  - boolen => true (1) / fulse (0)
 
+## loops 
+> the ideia of loops it is to ake the same code alot of time without re write it 
+### we have 2 type of view of loops 
+- for loops 
+##### it is contain :
+  1. initalization 
+  2. condition 
+  3. update 
+
+- while loops 
+  1. counter 
+  2. condition 
+  3. update 
+  
 
 
   
