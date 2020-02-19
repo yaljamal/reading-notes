@@ -9,7 +9,7 @@
 |**Read 2** | [Read 02](https://yaljamal.github.io/reading-notes/class-02) |
 |**Read 3** | [Read 03](https://yaljamal.github.io/reading-notes/class-03) |
 |**Read 4** | [Read 04](https://yaljamal.github.io/reading-notes/class-04) |
-|**Read 5** | [Read 05]() |
+|**Read 5** | [Read 05](https://yaljamal.github.io/reading-notes/class-05) |
 |**Read 6** | [Read 06]() |
 |**Read 7** | [Read 07]() |
 |**Read 8** | [Read 08]() |
