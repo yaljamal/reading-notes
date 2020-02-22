@@ -10,16 +10,16 @@
 |**Read 3** | [Read 03](https://yaljamal.github.io/reading-notes/class-03) |
 |**Read 4** | [Read 04](https://yaljamal.github.io/reading-notes/class-04) |
 |**Read 5** | [Read 05](https://yaljamal.github.io/reading-notes/class-05) |
-|**Read 6** | [Read 06]() |
-|**Read 7** | [Read 07]() |
-|**Read 8** | [Read 08]() |
-|**Read 9** | [Read 09]() |
-|**Read 10** | [Read 10]() |
-|**Read 11** | [Read 11]() |
-|**Read 12** | [Read 12]() |
-|**Read 13** | [Read 13]() |
-|**Read 14** | [Read 14]() |
-|**Read 15** | [Read 15]() |
+|**Read 6** | [Read 06](https://yaljamal.github.io/reading-notes/class-06) |
+|**Read 7** | [Read 07](https://yaljamal.github.io/reading-notes/class-07) |
+|**Read 8** | [Read 08](https://yaljamal.github.io/reading-notes/class-08) |
+|**Read 9** | [Read 09](https://yaljamal.github.io/reading-notes/class-09) |
+|**Read 10** | [Read 10](https://yaljamal.github.io/reading-notes/class-10) |
+|**Read 11** | [Read 11](https://yaljamal.github.io/reading-notes/class-11) |
+|**Read 12** | [Read 12](https://yaljamal.github.io/reading-notes/class-12) |
+|**Read 13** | [Read 13](https://yaljamal.github.io/reading-notes/class-13) |
+|**Read 14** | [Read 14](https://yaljamal.github.io/reading-notes/class-14) |
+|**Read 15** | [Read 15](https://yaljamal.github.io/reading-notes/class-15) |
 |--------------------------|
 
 ## this is made By [@yaljamal](https://github.com/yaljamal) :+1:
