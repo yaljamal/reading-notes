@@ -20,7 +20,7 @@
 
 # Audio and Video 
 - the video using `<video >`
- #### it is take some uniq attribute like :
+#### it is take some uniq attribute like :
  - src
  - poster
  - width
