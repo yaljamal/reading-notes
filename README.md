@@ -18,7 +18,8 @@
 |**Read 11** | [Read 11](https://yaljamal.github.io/reading-notes/class-11) |
 |**Read 12** | [Read 12](https://yaljamal.github.io/reading-notes/class-12) |
 |**Read 13** | [Read 13](https://yaljamal.github.io/reading-notes/class-13) |
-|**Read 14** | [Read 14](https://yaljamal.github.io/reading-notes/class-14) |
+|**Read 14** | [Read 14a](https://yaljamal.github.io/reading-notes/class-14a) |
+|**Read 14** | [Read 14b](https://yaljamal.github.io/reading-notes/class-14b) |
 |**Read 15** | [Read 15](https://yaljamal.github.io/reading-notes/class-15) |
 |--------------------------|
 
