@@ -1,25 +1,10 @@
-## Transforms
-
-- CCS3
-- to position and alter elements
-- two different settings, two-dimensional and three-dimensional.
-- 2D rotate
-- skew
-- 2D Scale
-- 2D Translate
-- Perspective Depth Value
-
-## Transitions
-
-- :hover, :focus, :active, and :target pseudo-classes.
-- propereties: transition-property, transition-duration , transition-timing-function, and transition-delay
-- Vendor Prefixes
-- Transition Duration
-- Transition Delay
-- Transition Timing
-- Animations
-
-## Animations Keyframes
-- Animation Duration, Timing Function, & Delay
-- Animation Iteration
-- Animation Play State
+## THE WORK ISSUE: REIMAGINING THE OFFICE:
+1. How to Build a Perfect Team
+2. The War on Meetings
+3. The Case for Blind Hiring
+4. Failure to Lunch
+5. The ‘Good Jobs’ Gamble
+6. Rethinking the Work-Life Equation
+7. The Rise of White-Collar Automation
+8. The Post-Cubicle Office
+9. The New Dream Jobs
